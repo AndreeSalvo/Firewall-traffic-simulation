@@ -5,13 +5,22 @@ This homelab project simulates a basic firewall system using Python. It generate
 The program classifies traffic as either allowed or blocked, demonstrating how rule-based filtering works in real-world network security environments.
 <br />
 
-<h2>Languages Used</h2>
-- <b>Python</b> 
-
-<h2>This project highlights core cybersecurity concepts such as</h2>
-- <b>Firewall rule enforcement</b>
-- <b>Network traffic simulation</b>
-
 <h2>Lab breakdown:</h2>
-<p align="center"> <br/>
-<img src="<img width="699" height="765" alt="Firewall code" src="https://github.com/user-attachments/assets/8f1b48c5-cc86-4ade-87df-ab024bedcad7"/>
+1. Traffic Generation
+- <b>Created a function to generate random IP addresses within the internal network range</b>
+- <b>Each execution simulated 12 connection attempts</b>
+
+2. Rule Evaluation
+- <b>Implemented a function to compare each generated IP address against predefined firewall rules</b>
+- <b>If a match was found → connection was blocked</b>
+- <b>If no match was found → connection was allowed</b>
+
+3. Simulation Execution
+- <b>Ran the simulation loop to process multiple traffic events</b>
+- <b>Generated a random identifier for each event to mimic unique network activity</b>
+- <b>Output displayed:</b>
+  - IP Address
+  - Action taken (Allow/Block)
+  - Random event ID
+ 
+<h2>Pictures:</h2>
