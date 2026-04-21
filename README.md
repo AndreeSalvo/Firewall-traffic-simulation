@@ -26,3 +26,4 @@ The program classifies traffic as either allowed or blocked, demonstrating how r
 <h2>Pictures:</h2>
 
 ![image alt](https://github.com/AndreeSalvo/Firewall-traffic-simulation/blob/5e41c709934f8bc71646b9a695c56c7f7c4c33c5/Firewall%20code.jpg)
+![image alt](https://github.com/AndreeSalvo/Firewall-traffic-simulation/blob/590f488cd76e4f3244b77357c98e3df90665ef61/Output.jpg)
