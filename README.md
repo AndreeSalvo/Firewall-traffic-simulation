@@ -24,4 +24,4 @@ The program classifies traffic as either allowed or blocked, demonstrating how r
   - Random event ID
  
 <h2>Pictures:</h2>
-https://github.com/AndreeSalvo/Firewall-traffic-simulation/blob/0cc036522b3b28bd6642297fc1dda41e02cd9760/Firewall%20code.png
+![image alt](https://github.com/AndreeSalvo/Firewall-traffic-simulation/blob/0cc036522b3b28bd6642297fc1dda41e02cd9760/Firewall%20code.png)
