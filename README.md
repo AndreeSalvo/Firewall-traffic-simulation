@@ -14,5 +14,4 @@ The program classifies traffic as either allowed or blocked, demonstrating how r
 
 <h2>Lab breakdown:</h2>
 <p align="center"> <br/>
-<img src="<img width="699" height="765" alt="Firewall code" src="https://github.com/user-attachments/assets/8f1b48c5-cc86-4ade-87df-ab024bedcad7" />
-"/>
+<img src="<img width="699" height="765" alt="Firewall code" src="https://github.com/user-attachments/assets/8f1b48c5-cc86-4ade-87df-ab024bedcad7"/>
